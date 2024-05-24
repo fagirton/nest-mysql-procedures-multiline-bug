@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Showcase of bug with calling procedure and select at the same time in nest-mysql module. Has the .sql file included to test with a real MySQL machine. Also change the credentials to communicate with SQL server
 
 ## Installation
 
